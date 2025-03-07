@@ -76,6 +76,4 @@ const ProjectSchema = new mongoose.Schema({
 🔹 Implement Role-Based Access Control (RBAC)  
 🔹 Use `Swagger` for API documentation  
 🔹 Implement file uploads (Multer for handling files)  
-🔹 Add WebSockets (`Socket.io`) for real-time project updates  
-
-Would you like a sample **folder structure** or a **starter boilerplate**? 🚀
+🔹 Add WebSockets (`Socket.io`) for real-time project updates
